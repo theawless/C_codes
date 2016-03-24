@@ -1,1 +1,1 @@
-# C_codes
+# Simple algorithms and data structures
